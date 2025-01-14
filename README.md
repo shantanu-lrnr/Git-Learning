@@ -1,2 +1,6 @@
-#this is readme file...
-![alt text](https://github.comshantanu-lrnr/Git-Learning/blob/main/photos/space.jpg)
+# Git Learning Repository
+
+This repository is for learning Git concepts.
+
+## Image Example
+![Space Image](photos/space.jpg)
